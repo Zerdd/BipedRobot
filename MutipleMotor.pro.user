@@ -1,0 +1,334 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-BaseEnvironmentBase</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-CommandLineArguments</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-ProFile</variable>
+  <value type="QString">MutipleMotor.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString">MutipleMotor</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseDyldImageSuffix</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserEnvironmentChanges</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetWorkingDirectory</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserWorkingDirectory</variable>
+  <value type="QString"></value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString">Qt4ProjectManager.Qt4RunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString">Debug</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-Debug</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <value key="QtVersionId" type="int">0</value>
+   <value key="ToolChain" type="int">2</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-Release</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <value key="QtVersionId" type="int">0</value>
+   <value key="ToolChain" type="int">2</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\ProgramData</value>
+    <value type="QString">APPDATA=C:\Users\ZSC\AppData\Roaming</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files</value>
+    <value type="QString">COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files</value>
+    <value type="QString">COMMONPROGRAMW6432=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=DESKTOP-SPIN7VF</value>
+    <value type="QString">COMSPEC=C:\WINDOWS\system32\cmd.exe</value>
+    <value type="QString">CUDA_PATH=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0</value>
+    <value type="QString">CUDA_PATH_V9_0=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0</value>
+    <value type="QString">DRIVERDATA=C:\Windows\System32\Drivers\DriverData</value>
+    <value type="QString">FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer</value>
+    <value type="QString">FPS_BROWSER_USER_PROFILE_STRING=Default</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Users\ZSC</value>
+    <value type="QString">KINECTSDK20_DIR=C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\</value>
+    <value type="QString">LOCALAPPDATA=C:\Users\ZSC\AppData\Local</value>
+    <value type="QString">LOGONSERVER=\\DESKTOP-SPIN7VF</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=12</value>
+    <value type="QString">NVCUDASAMPLES9_0_ROOT=C:\ProgramData\NVIDIA Corporation\CUDA Samples\v9.0</value>
+    <value type="QString">NVCUDASAMPLES_ROOT=C:\ProgramData\NVIDIA Corporation\CUDA Samples\v9.0</value>
+    <value type="QString">NVTOOLSEXT_PATH=C:\Program Files\NVIDIA Corporation\NvToolsExt\</value>
+    <value type="QString">ONEDRIVE=C:\Users\ZSC\OneDrive</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=E:\qt\mingw\bin;E:\qt\qt\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\libnvvp;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;E:\OpenCV\install\x86\mingw\bin;C:\Program Files\Python36;C:\Program Files\Python36\Scripts;C:\Program Files\Git\cmd;D:\putty\;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%SYSTEMROOT%\System32\OpenSSH\;C:\Users\ZSC\AppData\Local\Microsoft\WindowsApps;D:\QT\Tools\mingw530_32\bin;D:\QT\Tools\mingw530_32\i686-w64-mingw32\lib;D:\QT\5.10.0\mingw53_32\bin;E:\OpenCV\install\x86\mingw\bin;;C:\Program Files\Microsoft VS Code\bin</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_ARCHITEW6432=AMD64</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 79 Stepping 1, GenuineIntel</value>
+    <value type="QString">PROCESSOR_LEVEL=6</value>
+    <value type="QString">PROCESSOR_REVISION=4f01</value>
+    <value type="QString">PROGRAMDATA=C:\ProgramData</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files (x86)</value>
+    <value type="QString">PROGRAMFILES(X86)=C:\Program Files (x86)</value>
+    <value type="QString">PROGRAMW6432=C:\Program Files</value>
+    <value type="QString">PSMODULEPATH=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules</value>
+    <value type="QString">PUBLIC=C:\Users\Public</value>
+    <value type="QString">QTDIR=E:/qt/qt</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\WINDOWS</value>
+    <value type="QString">TEMP=C:\Users\ZSC\AppData\Local\Temp</value>
+    <value type="QString">TMP=C:\Users\ZSC\AppData\Local\Temp</value>
+    <value type="QString">USERDOMAIN=DESKTOP-SPIN7VF</value>
+    <value type="QString">USERDOMAIN_ROAMINGPROFILE=DESKTOP-SPIN7VF</value>
+    <value type="QString">USERNAME=ZSC</value>
+    <value type="QString">USERPROFILE=C:\Users\ZSC</value>
+    <value type="QString">VS120COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 13.0\Common7\Tools\</value>
+    <value type="QString">WINDIR=C:\WINDOWS</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">C:/Users/ZSC/Desktop/MultipleMotorTest1/MultipleMotorTest/MutipleMotor/MutipleMotor.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">win32-g++</value>
+    <value type="QString">-r</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">e:/qt/qt/bin/qmake.exe</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">C:/Users/ZSC/Desktop/MultipleMotorTest1/MultipleMotorTest/MutipleMotor</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\ProgramData</value>
+    <value type="QString">APPDATA=C:\Users\ZSC\AppData\Roaming</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files</value>
+    <value type="QString">COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files</value>
+    <value type="QString">COMMONPROGRAMW6432=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=DESKTOP-SPIN7VF</value>
+    <value type="QString">COMSPEC=C:\WINDOWS\system32\cmd.exe</value>
+    <value type="QString">CUDA_PATH=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0</value>
+    <value type="QString">CUDA_PATH_V9_0=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0</value>
+    <value type="QString">DRIVERDATA=C:\Windows\System32\Drivers\DriverData</value>
+    <value type="QString">FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer</value>
+    <value type="QString">FPS_BROWSER_USER_PROFILE_STRING=Default</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Users\ZSC</value>
+    <value type="QString">KINECTSDK20_DIR=C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\</value>
+    <value type="QString">LOCALAPPDATA=C:\Users\ZSC\AppData\Local</value>
+    <value type="QString">LOGONSERVER=\\DESKTOP-SPIN7VF</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=12</value>
+    <value type="QString">NVCUDASAMPLES9_0_ROOT=C:\ProgramData\NVIDIA Corporation\CUDA Samples\v9.0</value>
+    <value type="QString">NVCUDASAMPLES_ROOT=C:\ProgramData\NVIDIA Corporation\CUDA Samples\v9.0</value>
+    <value type="QString">NVTOOLSEXT_PATH=C:\Program Files\NVIDIA Corporation\NvToolsExt\</value>
+    <value type="QString">ONEDRIVE=C:\Users\ZSC\OneDrive</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=E:\qt\mingw\bin;E:\qt\qt\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\libnvvp;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;E:\OpenCV\install\x86\mingw\bin;C:\Program Files\Python36;C:\Program Files\Python36\Scripts;C:\Program Files\Git\cmd;D:\putty\;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%SYSTEMROOT%\System32\OpenSSH\;C:\Users\ZSC\AppData\Local\Microsoft\WindowsApps;D:\QT\Tools\mingw530_32\bin;D:\QT\Tools\mingw530_32\i686-w64-mingw32\lib;D:\QT\5.10.0\mingw53_32\bin;E:\OpenCV\install\x86\mingw\bin;;C:\Program Files\Microsoft VS Code\bin</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_ARCHITEW6432=AMD64</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 79 Stepping 1, GenuineIntel</value>
+    <value type="QString">PROCESSOR_LEVEL=6</value>
+    <value type="QString">PROCESSOR_REVISION=4f01</value>
+    <value type="QString">PROGRAMDATA=C:\ProgramData</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files (x86)</value>
+    <value type="QString">PROGRAMFILES(X86)=C:\Program Files (x86)</value>
+    <value type="QString">PROGRAMW6432=C:\Program Files</value>
+    <value type="QString">PSMODULEPATH=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules</value>
+    <value type="QString">PUBLIC=C:\Users\Public</value>
+    <value type="QString">QTDIR=E:/qt/qt</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\WINDOWS</value>
+    <value type="QString">TEMP=C:\Users\ZSC\AppData\Local\Temp</value>
+    <value type="QString">TMP=C:\Users\ZSC\AppData\Local\Temp</value>
+    <value type="QString">USERDOMAIN=DESKTOP-SPIN7VF</value>
+    <value type="QString">USERDOMAIN_ROAMINGPROFILE=DESKTOP-SPIN7VF</value>
+    <value type="QString">USERNAME=ZSC</value>
+    <value type="QString">USERPROFILE=C:\Users\ZSC</value>
+    <value type="QString">VS120COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 13.0\Common7\Tools\</value>
+    <value type="QString">WINDIR=C:\WINDOWS</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">E:/qt/mingw/bin/mingw32-make.exe</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">C:/Users/ZSC/Desktop/MultipleMotorTest1/MultipleMotorTest/MutipleMotor</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\ProgramData</value>
+    <value type="QString">APPDATA=C:\Users\ZSC\AppData\Roaming</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files</value>
+    <value type="QString">COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files</value>
+    <value type="QString">COMMONPROGRAMW6432=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=DESKTOP-SPIN7VF</value>
+    <value type="QString">COMSPEC=C:\WINDOWS\system32\cmd.exe</value>
+    <value type="QString">CUDA_PATH=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0</value>
+    <value type="QString">CUDA_PATH_V9_0=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Users\ZSC</value>
+    <value type="QString">KINECTSDK20_DIR=C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\</value>
+    <value type="QString">LOCALAPPDATA=C:\Users\ZSC\AppData\Local</value>
+    <value type="QString">LOGONSERVER=\\DESKTOP-SPIN7VF</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=12</value>
+    <value type="QString">NVCUDASAMPLES9_0_ROOT=C:\ProgramData\NVIDIA Corporation\CUDA Samples\v9.0</value>
+    <value type="QString">NVCUDASAMPLES_ROOT=C:\ProgramData\NVIDIA Corporation\CUDA Samples\v9.0</value>
+    <value type="QString">NVTOOLSEXT_PATH=C:\Program Files\NVIDIA Corporation\NvToolsExt\</value>
+    <value type="QString">ONEDRIVE=C:\Users\ZSC\OneDrive</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=E:\qt\mingw\bin;E:\qt\qt\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\libnvvp;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;E:\OpenCV\install\x86\mingw\bin;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Python36;C:\Program Files\Python36\Scripts;C:\Program Files\Git\cmd;D:\putty\;C:\Users\ZSC\AppData\Local\Microsoft\WindowsApps;D:\QT\Tools\mingw530_32\bin;D:\QT\Tools\mingw530_32\i686-w64-mingw32\lib;D:\QT\5.10.0\mingw53_32\bin;E:\OpenCV\install\x86\mingw\bin;;C:\Program Files\Microsoft VS Code\bin</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_ARCHITEW6432=AMD64</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 79 Stepping 1, GenuineIntel</value>
+    <value type="QString">PROCESSOR_LEVEL=6</value>
+    <value type="QString">PROCESSOR_REVISION=4f01</value>
+    <value type="QString">PROGRAMDATA=C:\ProgramData</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files (x86)</value>
+    <value type="QString">PROGRAMFILES(X86)=C:\Program Files (x86)</value>
+    <value type="QString">PROGRAMW6432=C:\Program Files</value>
+    <value type="QString">PSMODULEPATH=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules</value>
+    <value type="QString">PUBLIC=C:\Users\Public</value>
+    <value type="QString">QTDIR=E:/qt/qt</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\WINDOWS</value>
+    <value type="QString">TEMP=C:\Users\ZSC\AppData\Local\Temp</value>
+    <value type="QString">TMP=C:\Users\ZSC\AppData\Local\Temp</value>
+    <value type="QString">USERDOMAIN=DESKTOP-SPIN7VF</value>
+    <value type="QString">USERDOMAIN_ROAMINGPROFILE=DESKTOP-SPIN7VF</value>
+    <value type="QString">USERNAME=ZSC</value>
+    <value type="QString">USERPROFILE=C:\Users\ZSC</value>
+    <value type="QString">VS120COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 13.0\Common7\Tools\</value>
+    <value type="QString">WINDIR=C:\WINDOWS</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">true</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">clean</value>
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">E:/qt/mingw/bin/mingw32-make.exe</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">C:/Users/ZSC/Desktop/MultipleMotorTest1/MultipleMotorTest/MutipleMotor</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Debug</value>
+   <value type="QString">Release</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="mkspec" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.qmake</value>
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="clean" type="bool">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray">System</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+</qtcreator>
