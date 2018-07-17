@@ -1,0 +1,26 @@
+<Root>
+  <Action>
+    <Num>1</Num>
+    <DestAngle>0 0 0 0 0 0 0 0 0 0</DestAngle>
+    <Duration>1</Duration>
+  </Action>
+
+  <Action>
+    <Num>2</Num>
+    <DestAngle>0 -10 -20 0 -10 0 -10 -20 0 -10</DestAngle>
+    <Duration>1</Duration>
+  </Action>
+
+  <Action>
+    <Num>3</Num>
+    <DestAngle>-10 -10 -20 10 -10 0 -10 -20 10 -10</DestAngle>
+    <Duration>1</Duration>
+  </Action>
+
+  <Action>
+    <Num>4</Num>
+    <DestAngle>0 0 0 0 0 0 0 0 0 0</DestAngle>
+    <Duration>1</Duration>
+  </Action>
+
+</Root>

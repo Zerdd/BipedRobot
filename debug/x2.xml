@@ -1,0 +1,56 @@
+<Root>
+  <Action>
+    <Num>1</Num>
+    <DestAngle>0 0 0 0 0 0 0 0 0 0</DestAngle>
+    <Duration>1</Duration>
+  </Action>
+
+  <Action>
+    <Num>2</Num>
+    <DestAngle>0 -40 -60 0 -25 0 -40 -60 0 -25</DestAngle>
+    <Duration>1</Duration>
+  </Action>
+
+  <Action>
+    <Num>3</Num>
+    <DestAngle>-10 -30 -60 12 -25 -10 -30 -60 12 -25</DestAngle>
+    <Duration>1</Duration>
+  </Action>
+
+  <Action>
+    <Num>4</Num>
+    <DestAngle>-10 -30 -60 12 -25 -21 -57 -82 12 -25</DestAngle>
+    <Duration>1</Duration>
+  </Action>
+
+  <Action>
+    <Num>5</Num>
+    <DestAngle>-10 -30 -72 12 -43 -21 -57 -82 12 -25</DestAngle>
+    <Duration>1</Duration>
+  </Action>
+
+  <Action>
+    <Num>6</Num>
+    <DestAngle>-10 -30 -72 0 -43 -21 -57 -82 2 -32</DestAngle>
+    <Duration>1</Duration>
+  </Action>
+
+  <Action>
+    <Num>7</Num>
+    <DestAngle>10 -30 -72 -8 -43 -10 -57 -82 -8 -32</DestAngle>
+    <Duration>1</Duration>
+  </Action>
+
+  <Action>
+    <Num>8</Num>
+    <DestAngle>-15 -45 -58 -15 -21 -21 -57 -82 -14 -32</DestAngle>
+    <Duration>1</Duration>
+  </Action>
+
+  <Action>
+    <Num>9</Num>
+    <DestAngle>-10 -30 -60 12 -25 -10 -30 -60 12 -25</DestAngle>
+    <Duration>1</Duration>
+  </Action>
+
+</Root>
